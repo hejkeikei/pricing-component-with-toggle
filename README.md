@@ -57,7 +57,7 @@ Users should be able to:
 - JavaScript
 
 ### What I learned
-The pseudo class first-letter only works for block element, the property vertical-align only works for inline element. Therefore, I turn my span into inline-block so that both first-letter and vertical-align work. For more information see (#useful-resources).
+The pseudo class first-letter only works for block element, the property vertical-align only works for inline element. Therefore, I turn my span into inline-block so that both first-letter and vertical-align work. For more information see [Useful resources](#useful-resources)
 - CSS first-letter pseudo class
 ```css
 span::first-letter {
@@ -80,7 +80,7 @@ Complete the challenge with just HTML and CSS
 ### Useful resources
 
 - [CSS toggles - alvarotrigo](https://alvarotrigo.com/blog/toggle-switch-css/) - This helped me style my toggle prettier.
-- [CSS vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
 
 ## Author
 
