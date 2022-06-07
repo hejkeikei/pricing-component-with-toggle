@@ -59,7 +59,7 @@ Users should be able to:
 ### What I learned
 
 - CSS first-letter pseudo class
-  The pseudo class first-letter only works for block element, the property vertical-align only works for inline element. Therefore, I turn my span into inline-block so that both first-letter and vertical-align work/.
+  The pseudo class first-letter only works for block element, the property vertical-align only works for inline element. Therefore, I turn my span into inline-block so that both first-letter and vertical-align work.
 
 ```css
 span::first-letter {
